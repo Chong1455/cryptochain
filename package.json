@@ -32,7 +32,7 @@
     "body-parser": "^1.18.3",
     "core-js": "^2.6.12",
     "elliptic": "^6.5.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "hex-to-binary": "^1.0.1",
     "history": "^4.7.2",
     "parcel-bundler": "^1.12.4",
